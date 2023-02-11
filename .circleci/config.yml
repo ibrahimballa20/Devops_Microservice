@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
     # Use the same Docker base as the project
-      - image: python:3.6-node
+      - image: cimg/python:3.6.15
 
     working_directory: ~/repo
 
