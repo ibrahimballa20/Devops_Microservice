@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![ibrahim_balla](https://circleci.com/bb/ibrahim_balla/devops_microservices.svg?style=svg)](https://app.circleci.com/pipelines/bitbucket/ibrahim_balla/devops_microservices)
 
 ## Project Overview
 
